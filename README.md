@@ -2,15 +2,10 @@
 <h3 align="center">Im an IoT developer, versed in embedded systems and a little bit of DevOps. I am passionate about 3D modeling (that includes sculpting, retopo, texturing, rigging, and animating), currently learning computer graphics APIs (OpenGL and Vulkan). Oh, and I like design patterns, so I would appreciate any advice on that!</h3>
 
 - 🔭 I’m currently working on **IoT development**
-
 - 🌱 I’m currently learning **OpenGL and Vulkan**
-
 - 👯 I’m looking to collaborate on **Open source rendereres and graphics engines**
-
 - 👨‍💻 Find my 3D modeling projects at [https://www.artstation.com/miguelravagnani](https://www.artstation.com/miguelravagnani)
-
 - 💬 Ask me about the **C++, C, Python, Linux and Blender**
-
 - 📫 How to reach me **miguel.ravagnani@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
