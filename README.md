@@ -1,4 +1,4 @@
-<h1 align="center">Oh hi, visitor! You can call me Miguel</h1>
+<h1 align="center">Oh hi, visitor! I'm Miguel</h1>
 <h3 align="center">Im an IoT developer, versed in embedded systems and a little bit of DevOps. I am passionate about 3D modeling (that includes sculpting, retopo, texturing, rigging, and animating), currently learning computer graphics APIs (OpenGL and Vulkan). Oh, and I like design patterns, so I would appreciate any advice on that!</h3>
 
 - 🔭 I’m currently working on **IoT development**
