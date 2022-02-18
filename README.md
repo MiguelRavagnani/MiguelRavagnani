@@ -6,7 +6,7 @@
 <img align="center" src="https://img.shields.io/badge/miguel.ravagnani@gmail.com-A10088?style=for-the-badge&logo=gmail&logoColor=A10088&labelColor=ffffff" alt="miguelravagnani" />
 </a>
 
-<a href="https://twitter.com/miguelravagnani" target="blank">
+<a href="https://www.linkedin.com/in/miguelravagnani/" target="blank">
 <img align="center" src="https://img.shields.io/badge/-LinkedIn-A10088?style=for-the-badge&logo=LinkedIn&logoColor=A10088&labelColor=ffffff" alt="miguelravagnani" />
 </a>
   
