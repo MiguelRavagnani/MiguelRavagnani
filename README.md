@@ -9,10 +9,6 @@
 <a href="https://www.linkedin.com/in/miguelravagnani/" target="blank">
 <img align="center" src="https://img.shields.io/badge/-LinkedIn-A10088?style=for-the-badge&logo=LinkedIn&logoColor=A10088&labelColor=ffffff" alt="miguelravagnani" />
 </a>
-  
-<a href="https://twitter.com/miguelravagnani" target="blank">
-<img align="center" src="https://img.shields.io/badge/-Twitter-A10088?style=for-the-badge&logo=Twitter&logoColor=A10088&labelColor=ffffff" alt="miguelravagnani" />
-</a>
     
 <a href="https://www.artstation.com/miguelravagnani" target="blank">
 <img align="center" src="https://img.shields.io/badge/-Artstation-A10088?style=for-the-badge&logo=Artstation&logoColor=A10088&labelColor=ffffff" alt="miguelravagnani" />
